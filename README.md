@@ -1,2 +1,2 @@
 # World Pizza
-Diseño web de una página.
+Diseño de una pàgina web para una pizzeria 
